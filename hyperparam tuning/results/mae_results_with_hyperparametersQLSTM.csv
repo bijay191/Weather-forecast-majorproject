@@ -1,0 +1,2 @@
+Model,Num_epochs,Learning_rate,Hidden_size,Num_layers,MAE
+LSTM_epochs_10_lr_0.01_hidden_1_layers_1,10,0.01,1,1,0.3804905
